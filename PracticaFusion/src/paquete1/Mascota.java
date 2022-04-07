@@ -2,6 +2,7 @@ package paquete1;
 
 public class Mascota {
 	private String nombre;
+	private double tamaño;
 
 	public Mascota(String nombre) {
 		this.nombre = nombre;
