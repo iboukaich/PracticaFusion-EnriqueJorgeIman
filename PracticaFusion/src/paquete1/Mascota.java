@@ -2,6 +2,7 @@ package paquete1;
 
 public class Mascota {
 	private String nombre;
+	private boolean castrado;
 
 	private double tamanyo;
 
